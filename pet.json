@@ -1,0 +1,2252 @@
+{
+  "Axolotl": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/9/91/Axolotl.png/revision/latest?cb=20250629015309",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Oasis Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "6.76% chance Summer type fruit stays after collecting!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "22000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "6/28/2025",
+        "inline": true
+      }
+    ]
+  },
+  "Bear Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/8b/Bearbeee1.png/revision/latest?cb=20250614115834",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Wanna-bee:Every 25 minutes it mutates a crop to Honey Glazed",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "45,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 31, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/f2/Beee.png/revision/latest?cb=20250601124520",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Uncommon",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~25m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "25,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 31, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Black Bunny": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/ec/Black_bunny_icon.png/revision/latest?cb=20250515213553",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Uncommon",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Uncommon Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 40 seconds, the Black Bunny searches for a Carrot on the garden and eats it, automatically selling it at a marked up price of 1.5x value.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Blood Hedgehog": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/9/95/Blood_Hedgehog_Icon.png/revision/latest?cb=20250517140316",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "23,000,000 in Blood Moon Shop",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Sanguine Spike - Makes prickly fruits grow bigger, higher prickly fruit variant chance",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "30,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Blood Kiwi": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/79/Blood_Kiwi_Icon.png/revision/latest?cb=20250517140315",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "20,000,000 in Blood Moon Shop",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 60s, decreases hatch time of egg with the highest remaining hatch time by 45s and increases its hatch speed by 20%.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Blood Owl": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/0/00/Blood_Owl_Icon.png/revision/latest?cb=20250517140316",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "60,000,000 in Blood Moon Shop",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "All active pets gain &gt;0.50 XP per second.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "50,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Brown Mouse": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/86/BrownMouse.png/revision/latest?cb=20250619191025",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Mythical Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 12%.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Bunny": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/6b/BunnyPet.png/revision/latest?cb=20250515213745",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Common Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 40s, eats a carrot at a 1.5x value bonus.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Butterfly": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/18/Thy_Butterfly_V2.png/revision/latest?cb=20250607163145",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Anti Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Rainbow flutter:Every ~30m, flies to a nearby fruit with 5+ mutations, removes all mutations from it and turns it rainbow! Ignores favorited fruit.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "26,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Capybara": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/12/CapybaraIIcon.webp/revision/latest?cb=20250621135449",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Paradise Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Chill Zone: All pets within 15.48 studs won`t lose hunger and will gain 3.48xp every second.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "30000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Cat": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/89/Catpet.png/revision/latest?cb=20250503200101",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Uncommon",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Uncommon Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 80 seconds, the Cat will nap for 10 seconds. New fruit within 10 studs will be 1.25x larger.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Caterpillar": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/3/3d/Caterpillar_Icon.png/revision/latest?cb=20250522100801",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bug Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Leaf blower passive : Leafy Plants grow 1.65x faster.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Chicken": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/5/51/Chicken_Pet_V2.png/revision/latest?cb=20250515232819",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Uncommon",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Uncommon Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Increases egg hatch speed by 10%.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Chicken Zombie": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/b/be/Chicken_Zombie_Icon.png/revision/latest?cb=20250517140316",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Join the game before the 1.06.0 update",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 25m, 20% chance a nearby fruit becomes Zombified!Increases egg hatch speed by 10%",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "35.000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Cooked Owl": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/fc/Cooked_Owl.png/revision/latest?cb=20250614144308",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Join the game before the 1.10.0 update",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Let Him Cook - Every 15 minutes, 15.35% chance to cook a nearby fruit. Usually Burnt, but occasionally Cooked!                                                                            Nocturnal Nursery - All active pets gain an additional 0.17 XP/s",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 14, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Cow": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/84/Cow.png/revision/latest?cb=20250515232942",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Legendary Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Causes all plants within 8 studs to grow 1.12x faster.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Crab": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/b/b9/CrabIcon.webp/revision/latest?cb=20250621133143",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Common Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Pinch Pocket: Occasionally goes to another player and pinches them and grants you a small amount of sheckles",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Deer": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/2/27/Deer.png/revision/latest?cb=20250515213435",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Uncommon",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Uncommon Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Gives a 3% chance for berry plants to stay when harvested.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "2,500",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Disco Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/f2/DiscoBeeIcon.gif/revision/latest?cb=20250613134410",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Anti Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ≈13m, ≈22% chance a nearby fruit becomes Disco",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "25,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 7th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Dog": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/2/29/DogPet.png/revision/latest?cb=20250515232409",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Common Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 60s, 5% chance to dig up a random seed.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Dragonfly": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/c/c9/DragonflyIcon.png/revision/latest?cb=20250603072107",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bug Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Transmutation: Every ~5 minutes, one random crop will turn gold.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "100,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Echo Frog": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/3/30/Echo_frog.png/revision/latest?cb=20250516175130",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Night Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every &lt;5 minutes, croaks and causes a random nearby plant to advance growth by 24 hours.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May, 10th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Fennec Fox": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/FennecFoxIcon.png/revision/latest?cb=20250626225726",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Oasis Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Sly: Every 22:12m, goes to another player's random fruit, copies 1 mutation from it and applies it to a random fruit the pet owner owns! The higher mutation multiplier the rarer chance to copy.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 28, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Firefly": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/c/cd/Again.png/revision/latest?cb=20250524063200",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Joining a Grow A Garden Test Server",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 79.12s, 3.07% chance nearby fruit becomes Shocked.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "Tidak ada",
+        "inline": true
+      }
+    ]
+  },
+  "Flamingo": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/ec/FlamingoIcon.webp/revision/latest?cb=20250621135449",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Flamboyance: Occasionally stands on one legs and all nearby plants will grow incredibly fast",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Frog": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/5/55/FrogV2.png/revision/latest?cb=20250515232041",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Night Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every &gt;20 minutes, croaks and a random nearby Plant will advance growth by 24 hours.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May, 10th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Giant Ant": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/0/0b/GiantAntIcon.png/revision/latest?cb=20250525230757",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bug Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "~10% chance for harvested crops to duplicate. Rarer fruits duplicate less often. ~5% extra chance for Candy type fruit to duplicate!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "18,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Golden Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/e8/GoldenBee.png/revision/latest?cb=20250610120706",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Unknown",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Pollinator: Occasionally pollinates fruit & Golden Harvest: Harvested fruit has a chance to turn to gold",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "TBD",
+        "inline": true
+      }
+    ]
+  },
+  "Golden Lab": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/f3/GoldenLabPet.png/revision/latest?cb=20250515232516",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Common Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Digging friend - 10% chance to dig up a random Seed Shop seed every 60 seconds.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Grey Mouse": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/88/GreyMouse.png/revision/latest?cb=20250619185618",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Mythical Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Whisker Wisdom - Gains 500 bonus experience every 10 minutes. Increases the player's movement speed by 10% (Slightly increases as the player's pet(s) get(s) older).",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Hamster": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/c/c5/HamsterIcon.webp/revision/latest?cb=20250626165810",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Summer Shop",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~3 minutes, runs in a hamser wheel and boosts crafting speed by 30.35% for 19s!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "15,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 28, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Hedgehog": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/4/46/HedgehogPet.png/revision/latest?cb=20250619185302",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Night Egg 10",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Grants prickly fruit in a 30 studs radius a &lt;1.50x size bonus!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May, 10th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Honey Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/14/HoneyBee.png/revision/latest?cb=20250601124507",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~20m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation. (The time is reduced when the pet is leveled up)",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "25,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 31, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Hyacinth Macaw": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/77/HyacinthMacawIcon.png/revision/latest?cb=20250626225727",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Oasis Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 8:00m, 15.63% chance to mutate a nearby fruit, applying the Cloudtouched mutation!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "12000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 28, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Kiwi (Pet)": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/ea/Kiwi.png/revision/latest?cb=20250621165402",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "160",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 60 seconds, decreases hatch time of egg with the highest remaining hatch time by 25 seconds.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 10th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Meerkat": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/c/c2/Meerkat.png/revision/latest?cb=20250628171412",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Oasis Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 7:14m goes to another pet and does a lookout. That pet advanced cooldown by 21.06s! Has a 15.53% chance to do it again after each lookout.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "22000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 28, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Mimic Octopus": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/0/00/MimicOctopusIcon.webp/revision/latest?cb=20250623194827",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Paradise Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Mimicry: Every 20m mimics and copies an ability from another pet and performs its ability",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Mole": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/63/Mole.png/revision/latest?cb=20250524080317",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Night Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~80 seconds, digs down underground to find treasure. Can dig up gear or sheckles.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 10th 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Monkey": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/85/Monkey_Pet_V2.png/revision/latest?cb=20250515232917",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "~2.5% to refund fruit back to your inventory. Rarer plants have a lower chance to refund.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "7,400",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Moon Cat": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/ee/Moon_Cat.png/revision/latest?cb=20250525110317",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "100,000,000 439Summer Harvest",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Moon Nap: Cat naps in a random spot in your farm, emitting an aura that boosts nearby fruit size.Moon Harvest: Grants a 6.06% chance for Night type plants to replant when harvested.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 24th 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Moth": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/0/09/Moth.png/revision/latest?cb=20250607163957",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Anti Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Silk song:Every ~13 minutes, restores 100% hunger of a random pet by singing to it",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 7th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Night Owl": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/3/3e/NightOwlPic.png/revision/latest?cb=20250524082051",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Night Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "All active pets gain an additional &lt;0.23 XP per second.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "50,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 10th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Orange Tabby": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/73/Orange_tabby_icon.png/revision/latest?cb=20250515232843",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 90 seconds, naps for 15 seconds and causes new fruit within 15 studs to grow 1.5x larger.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Orangutan": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/4/47/OrangutanIcon.webp/revision/latest?cb=20250621135443",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Helping Hands: When crafting, each material has a chance for it not to be consumed",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Ostrich": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/82/OstrichIcon.webp/revision/latest?cb=20250621135444",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Paradise Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Eggsperience: Grants pets hatched from eggs an age bonus",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Owl": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/4/46/Owlpng.png/revision/latest?cb=20250524075420",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "530",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Boosts all the active pets XP by around 0.20 XP each second!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 10, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Pack Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/fe/PackBee.png/revision/latest?cb=20250614110351",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Crafted by adding a Anti Bee Egg, Sunflower, Purple Dahlia and  250",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Increases backpack size by 25~ and pollinates a plant every ~25 minutes",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "25000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 14 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Panda": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/9/94/PandaPet.png/revision/latest?cb=20250515235257",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Be present for the first hour of the Animal Update",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~3 minutes, the Panda will eat bamboo off the players' plot and sell it for ~1.5x value boost.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Peacock": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/61/Peacock.png/revision/latest?cb=20250621174722",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Paradise Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Utter Beauty: Occasionally fans its feathers and all nearby pets will advance ability cooldowns",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Petal Bee": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/5/52/Petalbee.png/revision/latest?cb=20250601151649",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~25 minutes, it flies to a nearby fruit and pollinates it, applying Pollinated mutation. ~1% chance Flower type fruit stays after harvest.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 31, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Pig": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/82/Pig_no_back.png/revision/latest?cb=20250516001155",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Polar Bear": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/2/25/Polarbear.png/revision/latest?cb=20250515235229",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Legendary Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~90s, ~10% chance to turn a nearby crop chilled or frozen.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Praying Mantis": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/2/25/PrayingMantis.png/revision/latest?cb=20250515233300",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bug Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Zen zone:Every 80s, prays for 10.30s granting a 1.51x variant chance to crops within 10.30 studs.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Queen Bee (Pet)": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/7a/Queen_bee.png/revision/latest?cb=20250602131458",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~20 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.Every ~23 Minutes, the pet with the highest cooldown refreshes its ability.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "65,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 31, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Raccoon": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/5/54/Raccon_Better_Quality.png/revision/latest?cb=20250605153904",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Divine",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Night Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~15 minutes, goes to another player's plot and steals (duplicate) a random crop and gives it to the player!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "45,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 10, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Red Dragon": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/6e/RedDragonRender.png/revision/latest?cb=20250604194551",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Unknown",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Scorched Soil: Occasionally sets a random nearby fruit ablaze, turning it into Burnt",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "TBD",
+        "inline": true
+      }
+    ]
+  },
+  "Red Fox": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/d/d5/RedFox.png/revision/latest?cb=20250517234432",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Mythical Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Scoundrel: Attempts to steal (duplicate) a seed from another user's plot every ~8 minutes.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "35000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Red Giant Ant": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/c/c8/RedGiantAntImage.png/revision/latest?cb=20250524190010",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Mythical Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "5% chance harvested crops duplicate! Rarer crops have lower chance to duplicate. 5% extra chance for Fruit type crops to duplicate!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Rooster": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/2/2c/Rooster.png/revision/latest?cb=20250504000830",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Increases egg hatch speed by ~20%.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Sand Snake": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/a/a4/SandSnakeIcon.png/revision/latest?cb=20250626225728",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Oasis Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Has a 1.47% - 3% to duplicate an item or seed when purchasing from the gear or seed shop.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "28000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "6/28/2025",
+        "inline": true
+      }
+    ]
+  },
+  "Scarlet Macaw": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/2/21/ScarletMacawIcon.webp/revision/latest?cb=20250621135445",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Paradise Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Verdant Bird: Every 12:00m, 16% chance to mutate a nearby fruit, applying the Verdant mutation.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "12,000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Sea Otter": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/c/c3/Sea_Otter.png/revision/latest?cb=20250619182540",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Legendary Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every ~30 seconds, sprays water on a nearby plant!",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Sea Turtle": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/a/ad/SeaTurtleIcon.webp/revision/latest?cb=20250621135447",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Shell Share: Occasionally shares its wisdom to a random active pet granting bonus experience & Water Splash: Occasionally has a chance to Wet a nearby fruit",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Seagull": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/5/59/SeagullIcon.webp/revision/latest?cb=20250621133144",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Common Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Scavenger: Shoveling plants have a percent chance to drop the equivalent seed. Does not work on fruits.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "3500",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Seal": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/f9/SealIcon.webp/revision/latest?cb=20250621135446",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Seal the Deal: When selling pets, has a 2.42% chance to get the pet back as its egg equivalent",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "17000",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Silver Monkey": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/a/a7/Silvermonkey.png/revision/latest?cb=20250619183432",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Legendary Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "8% chance to refund crops.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Snail": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/e2/Snail_Pet.png/revision/latest?cb=20250503192928",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Bug Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Extra 5% chance harvested plants drop seeds. Rarer plants have a lower chance to duplicate",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Spotted Deer": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/3/38/Spotteddeer.png/revision/latest?cb=20250516001104",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Gives a 5% chance for berry plants to stay when harvested.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "2,500",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Squirrel": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/9/93/Squirrel_Icon.png/revision/latest?cb=20250517215556",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Mythical",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Mythical Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "2.72% chance to not consume the seed when planting! Rarer seeds have rarer chance to recover. Does not work with exlusive seeds.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 17th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Starfish": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/62/StarfishIcon.webp/revision/latest?cb=20250621133143",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Common",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Common Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "You're a Star: Gains additional XP per second",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Tarantula Hawk": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/78/The_Tarantula_Hawk.png/revision/latest?cb=20250619184819",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Anti Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 25m, the Tarantula Hawk flies to a nearby fruit and pollinates it, applying the Pollinated mutation.Every 5m, the Tarantula Hawk stings a random pet and advances its ability cooldown by 80s.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 7th, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Toucan": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/10/ToucanIcon.webp/revision/latest?cb=20250621135448",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Rare Summer Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Tropical Lover: Makes all nearby Tropical type plants have increased variant chance and grow bigger",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 21, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Turtle": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/b/b1/Turtle_icon.png/revision/latest?cb=20250515234534",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Legendary",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Legendary Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "All sprinklers last ~20% longer.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "May 3rd, 2025",
+        "inline": true
+      }
+    ]
+  },
+  "Wasp": {
+    "image": "https://static.wikia.nocookie.net/growagarden/images/f/f8/The_Wasp.png/revision/latest?cb=20250607151048",
+    "fields": [
+      {
+        "name": "🏆 Tier",
+        "value": "Rare",
+        "inline": true
+      },
+      {
+        "name": "🛒 Diperoleh dari",
+        "value": "Anti Bee Egg",
+        "inline": true
+      },
+      {
+        "name": "💰 Passive",
+        "value": "Every 30m, the Wasp flies to a nearby fruit and pollinates it, applying the Pollinated mutation.Every 10m, the Wasp stings a random pet and advances its ability cooldown by 60s.",
+        "inline": false
+      },
+      {
+        "name": "🍖 Hunger",
+        "value": "Tidak ada",
+        "inline": true
+      },
+      {
+        "name": "📅 Rilis",
+        "value": "June 7th, 2025",
+        "inline": true
+      }
+    ]
+  }
+}

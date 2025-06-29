@@ -1,0 +1,86 @@
+{
+    "Ripe": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/f/f9/RipeSugarApple.webp/revision/latest?cb=20250616183957",
+        "multiplier": "1",
+        "obtainment": "Rare chance to replace the normal variant.\nCan stack with Gold or Rainbow.\nOnly applies to Sugar Apples.",
+        "description": "Purple in color, fading darker towards the bottom"
+    },
+    "Gold": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/b/b1/Strawberry_Gold.png/revision/latest?cb=20250429152504",
+        "multiplier": "20",
+        "obtainment": "1% chance to grow replacing normal variant.\nCan be applied by Dragonfly pet.",
+        "description": "Shining\nGolden in color"
+    },
+    "Rainbow": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/8/86/Tomato_Rainbow.gif/revision/latest?cb=20250613063531",
+        "multiplier": "50",
+        "obtainment": "0.1% chance to grow replacing normal variant.\nApplied by Butterfly pet on crop with 5+ mutations (removes all previous mutations).",
+        "description": "Continuously changes color\nEmits yellow particles and rainbow above it"
+    },
+    "Wet": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/2/22/Strawberry_Wet.png/revision/latest?cb=20250616184348",
+        "multiplier": "2",
+        "obtainment": "During Rain or Thunderstorm.\nChance from sprinklers.\nApplied by Sea Turtle.\nAdmin event: Under The Sea.",
+        "description": "Dripping with water particles."
+    },
+    "Windstruck": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/a/a6/WindstruckDr.png/revision/latest?cb=20250621215834",
+        "multiplier": "2",
+        "obtainment": "During Windy or Gale weather.",
+        "description": "Wind gusts swoop around the crop"
+    },
+    "Moonlit": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/4/43/Strawberry_Moonlit.png/revision/latest?cb=20250516095530",
+        "multiplier": "2",
+        "obtainment": "During Night, max 6 plants moonlit every 2 mins.",
+        "description": "Glowing purple aroma\nPurple in color"
+    },
+    "Chilled": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/f/f8/Strawberry_Chilled.png/revision/latest?cb=20250426121508",
+        "multiplier": "2",
+        "obtainment": "During Frost.\nApplied by Polar Bear or Mutation Spray: Chilled.",
+        "description": "Bluish color\nEmits frost particles"
+    },
+    "Bloodlit": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/9/94/Bloodlitdragonfruit_png.png/revision/latest?cb=20250524212247",
+        "multiplier": "4",
+        "obtainment": "During Blood Moon (replaces Night every 4 hours).",
+        "description": "Shining\nRed in color"
+    },
+    "Twisted": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/1/12/Twistedcocovineba.png/revision/latest?cb=20250622044126",
+        "multiplier": "5",
+        "obtainment": "During Tornado.",
+        "description": "Tornado-like swirls similar to Windstruck"
+    },
+    "Drenched": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/1/1b/Drenched_Tomato.png/revision/latest?cb=20250628090434",
+        "multiplier": "5",
+        "obtainment": "During Tropical Rain.",
+        "description": "Large water droplets fall from the crop"
+    },
+    "Frozen": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/d/dc/Mango_Frozen.png/revision/latest?cb=20250517135718",
+        "multiplier": "10",
+        "obtainment": "If crop has both Wet and Chilled.\nApplied by Polar Bear or Flower Froster Sprinkler (flowers only).",
+        "description": "Encased in ice block"
+    },
+    "Aurora": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/9/9b/Aurora_gif.gif/revision/latest?cb=20250628045826",
+        "multiplier": "90",
+        "obtainment": "During Aurora Borealis.",
+        "description": "Pulses between blues & purples\nReleases faint smoke above"
+    },
+    "Shocked": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/e/e5/Strawberry_Shocked.png/revision/latest?cb=20250616185113",
+        "multiplier": "100",
+        "obtainment": "Crop struck during Thunderstorm or Jandel Storm.\nApplied with Mutation Spray: Shocked.",
+        "description": "Neon\nNo studded texture"
+    },
+    "Celestial": {
+        "image": "https://static.wikia.nocookie.net/growagarden/images/7/73/Strawberry_Celestial.png/revision/latest?cb=20250517143121",
+        "multiplier": "120",
+        "obtainment": "Crop struck during Meteor Shower.",
+        "description": "Slightly reflectant\nSparkling yellow and purple"
+    }
+}

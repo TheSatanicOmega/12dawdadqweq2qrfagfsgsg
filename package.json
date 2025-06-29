@@ -1,0 +1,14 @@
+{
+  "name": "grow-a-garden-bot-by-borzxy",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.0",
+    "moment-timezone": "^0.6.0",
+    "node-fetch": "^2.7.0"
+  }
+}
