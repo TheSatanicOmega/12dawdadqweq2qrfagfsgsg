@@ -1,3 +1,4 @@
+const keepAlive = require('./keepalive');
 const {
     Client,
     Collection,
