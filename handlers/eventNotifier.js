@@ -4,7 +4,7 @@ const {
     ChannelType
 } = require('discord.js');
 
-const CHANNEL_ID = '1324237125477990400';
+const CHANNEL_ID = '1388855726486716527';
 const IMAGE_URL = 'https://static.wikia.nocookie.net/growagarden/images/a/ad/SummerHarvestIslandNew.png/revision/latest?cb=20250628142023';
 const EVENT_NAME = 'Summer Harvest';
 const ROLE_PING = '<@&123456789012345678>';
