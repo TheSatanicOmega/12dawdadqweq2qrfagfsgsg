@@ -23,9 +23,9 @@ const {
     startCropUpdater
 } = require('./handlers/cropsFetcher')
 
-const {
+/*const {
     startPetScrapper
-} = require('./handlers/petsScrapper')
+} = require('./handlers/petsScrapper')*/
 
 const client = new Client({
     intents: [
@@ -71,7 +71,7 @@ client.once('ready', () => {
     console.log(`🤖 Logged in as ${client.user.tag}`);
     startPetUpdater();
     startEggUpdater();
-    startPetScrapper();
+    //startPetScrapper();
     require('./handlers/eventNotifier.js')(client);
     console.log("✅ Event Notifier loaded.")
     require('./handlers/rareHandler.js')(client);
