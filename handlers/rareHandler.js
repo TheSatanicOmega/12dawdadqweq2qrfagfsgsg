@@ -32,7 +32,7 @@ module.exports = (client) => {
             .setTimestamp(embed.timestamp ? new Date(embed.timestamp) : new Date());
 
         await targetChannel.send({
-            text: "Whitelisted key has been found! <@1129472524166627428>",
+            content: "Whitelisted key has been found! <@1129472524166627428>",
             embeds: [forwardedEmbed]
         });
     });
