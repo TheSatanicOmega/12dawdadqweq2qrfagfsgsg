@@ -23,8 +23,16 @@ const {
     startCropUpdater
 } = require('./handlers/cropsFetcher')
 
+const {
+    startPetScrapper
+} = require('./handlers/petsScrapper')
+
 const client = new Client({
-    intents: [GatewayIntentBits.Guilds]
+    intents: [
+        GatewayIntentBits.Guilds,
+        GatewayIntentBits.GuildMessages,
+        GatewayIntentBits.MessageContent
+    ]
 });
 client.commands = new Collection();
 
@@ -63,7 +71,11 @@ client.once('ready', () => {
     console.log(`🤖 Logged in as ${client.user.tag}`);
     startPetUpdater();
     startEggUpdater();
+    startPetScrapper();
     require('./handlers/eventNotifier.js')(client);
+    console.log("✅ Event Notifier loaded.")
+    require('./handlers/rareHandler.js')(client);
+    console.log("✅ Rare Notifier loaded.")
     //startCropUpdater();
 });
 
