@@ -89,17 +89,17 @@ async function updateEggJSON() {
             if (detail) {
                 eggData[name] = detail;
             } else {
-                console.warn(`⚠️  No data found: ${name}`);
+                //console.warn(`⚠️  No data found: ${name}`);
             }
         } catch (err) {
-            console.error(`❌ Failed to fetch ${name}:`, err.message);
+           console.error(`❌ Failed to fetch ${name}:`, err.message);
         }
 
         await new Promise(r => setTimeout(r, 500));
     }
 
     fs.writeFileSync(EGG_FILE, JSON.stringify(eggData, null, 2), 'utf8');
-    console.log("✅ egg.json updated!");
+    //console.log("✅ egg.json updated!");
 }
 
 function startEggUpdater() {
