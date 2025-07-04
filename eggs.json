@@ -1,0 +1,429 @@
+{
+  "Anti Bee Egg": {
+    "description": "Not to be confused with the Premium Anti Bee Egg. The Anti Bee Egg is an egg that was obtained by crafting, during the Bizzy Bee Event. The Anti Bee Egg looks similar to the Bee Egg with the difference being the yellow is swapped out with red and multiple spikes are placed on the top half of the egg. The Anti Bee Egg was previously crafted at the Bizzy Bear for: 1 Bee Egg 25 Craft time: 2 hours. Currently, it is crafted at the Cosmetics / Crafting Stand with the same items. Alternatively, the Anti Bee Egg used to be...",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/e2/AntiBeeEgg.png/revision/latest?cb=20250607151716",
+    "hatchTime": "4 Hours and 10 Minutes",
+    "obtainable": true,
+    "releaseDate": "June 7th, 2025",
+    "pets": {
+      "Wasp": 55,
+      "Tarantula Hawk": 30,
+      "Moth": 13.75,
+      "Butterfly": 1,
+      "Disco Bee": 0.25
+    },
+    "priceParsed": {
+      "robuxOptions": [],
+      "sheckle": null
+    }
+  },
+  "Bee Egg": {
+    "description": "The Bee Egg was added in the Bizzy Bee update and was purchasable from the Honey Shop for 18 or in the Pet Eggs Shop for 30,000,000 or 129. It can also be obtained by gaining enough points during the Summer Harvest Event. All pets from the Bee Egg give limited Event Mutations (Pollinated + HoneyGlazed). It takes 4 Hours and 10 Minutes to hatch. It can be crafted into the Anti-Bee Egg with 25. All pets from the Bee Egg give limited Event Mutations (Pollinated or Honey Glazed).",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/8d/BeeEgg.png/revision/latest?cb=20250531113717",
+    "hatchTime": "4 Hours and 10 Minutes",
+    "obtainable": true,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Bee": 65,
+      "Honey Bee": 25,
+      "Bear Bee": 5,
+      "Petal Bee": 4,
+      "Queen Bee (Pet)": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 30,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 18
+    }
+  },
+  "Bug Egg": {
+    "description": "The Bug Egg can be purchased from the Pet Egg stand for 50,000,000 and takes 8 hours to hatch. The chance for the Bug Egg to appear in stock is 3%. The Exotic Bug Egg hatches in 30 seconds. The Bug Egg is considered the most valuable egg in the game, which ties with Night Egg. The Exotic Bug Egg is a type of variant of the Bug Egg which hatches in 30 seconds compared to the 8 hours that a regular Bug Egg takes to hatch. The Bug Egg when held can boost the player similar to the Celestiberry. The Exotic Bug Egg, the paid...",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/86/Bugeggimage.png/revision/latest?cb=20250506155741",
+    "hatchTime": "8 hours",
+    "obtainable": true,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Snail": 40,
+      "Giant Ant": 30,
+      "Caterpillar": 25,
+      "Praying Mantis": 4,
+      "Dragonfly": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 149,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 50000000
+    }
+  },
+  "Common Egg": {
+    "description": "The Common Egg is a type of egg that can be purchased from the Pet Eggs shop for 50,000 or 19. It has a 99% chance of appearing in the Pet Shop and requires 10 minutes to hatch.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/10/Common_Egg.webp/revision/latest?cb=20250527050354",
+    "hatchTime": "10 minutes",
+    "obtainable": true,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Dog": 33.33,
+      "Golden Lab": 33.33,
+      "Bunny": 33.33
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 19,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 50000
+    }
+  },
+  "Common Summer Egg": {
+    "description": "The Common Summer Egg is an egg added in the Summer Harvest Event update, and can be purchased for 1,000,000 or 29. It takes 20 minutes to hatch. It has a 35% chance to enter the Pet Eggs shop.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/62/CommonSummerEgg.png/revision/latest?cb=20250620110046",
+    "hatchTime": "20 minutes",
+    "obtainable": true,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Starfish": 50,
+      "Seagull": 25,
+      "Crab": 25
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 29,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 1000000
+    }
+  },
+  "Exotic Bug Egg": {
+    "description": "The Exotic Bug Egg is an egg that gives a player an opportunity to receive one of six different pets. This egg resembles the Bug Egg, having identical rewards and chances but has a lower hatch time. The Exotic Bug Egg is available with Robux. It was previously obtainable during the Lunar Glow Event for free using the code “LUNARGLOW10”.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/8/86/Bugeggimage.png/revision/latest?cb=20250506155741",
+    "hatchTime": "30 seconds",
+    "obtainable": false,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Snail": 40,
+      "Giant Ant": 30,
+      "Caterpillar": 25,
+      "Praying Mantis": 4,
+      "Dragonfly": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 199,
+          "eggs": 1
+        },
+        {
+          "robux": 575,
+          "eggs": 3
+        },
+        {
+          "robux": 1699,
+          "eggs": 10
+        }
+      ],
+      "sheckle": null
+    }
+  },
+  "Legendary Egg": {
+    "description": "The Legendary Egg is a Seasonal type (Winter) of egg that was purchasable from the Pet Eggs shop for 3,000,000, or 129. It has a 12% chance of appearing in the Pet Shop and requires 4 hours to hatch. This egg is currently not available and is replaced by Summer Season Eggs.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/63/Legendary_Egg.webp/revision/latest?cb=20250527045649",
+    "hatchTime": "4 hours",
+    "obtainable": false,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Cow": 42.55,
+      "Silver Monkey": 42.55,
+      "Sea Otter": 10.64,
+      "Turtle": 2.13,
+      "Polar Bear": 2.13
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 129,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 3000000
+    }
+  },
+  "Mythical Egg": {
+    "description": "The Mythical Egg was added in the Blood Moon Event update, where it can be purchased from the Pet Eggs shop for 8,000,000 or 119. It has a 10% chance of appearing in the Pet Eggs shop. The egg is overall yellow and orange, containing a few gradients.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/16/Mythical_Egg.webp/revision/latest?cb=20250527045535",
+    "hatchTime": "5 hours 7 minutes",
+    "obtainable": true,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Grey Mouse": 35.71,
+      "Brown Mouse": 26.79,
+      "Squirrel": 26.79,
+      "Red Giant Ant": 8.93,
+      "Red Fox": 1.79
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 119,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 8000000
+    }
+  },
+  "Night Egg": {
+    "description": "The Night Egg is a limited-time item introduced during the Lunar Glow Event in Grow a Garden. Players could get the Night Egg by completing milestones during the Lunar Glow Event. Players could also buy them from the Blood Moon Shop or the Twilight Shop. The Night Egg takes 4 hours and 10 minutes to hatch. Currently the Night Egg is obtainable as a reward for the Summer Harvest Event. After earning 430 Lunar Points, players obtain the last 3 night eggs, totalling to 13 total eggs. When the Lunar Glow Event was first...",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/71/Night_Egg.png/revision/latest?cb=20250524082844",
+    "hatchTime": "4 hours 10 minutes",
+    "obtainable": true,
+    "releaseDate": "May 10th, 2025",
+    "pets": {
+      "Hedgehog": 47,
+      "Mole": 23.5,
+      "Frog": 17.63,
+      "Echo Frog": 8.23,
+      "Night Owl": 3.53,
+      "Raccoon": 0.1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": null,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 70
+    }
+  },
+  "Oasis Egg": {
+    "description": "The Oasis Egg is a Mythical egg. It was added in the second half of the Summer Harvest Event. It can be purchased in the Summer Shop for 10.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/9/90/OasisEgg.webp/revision/latest?cb=20250626165225",
+    "hatchTime": "4 Hours and 10 Minutes",
+    "obtainable": true,
+    "releaseDate": "June 28, 2025",
+    "pets": {
+      "Meerkat": 45,
+      "Sand Snake": 34.5,
+      "Axolotl": 15,
+      "Hyacinth Macaw": 5,
+      "Fennec Fox": 0.5
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "eggs": 1,
+          "robux": 10
+        },
+        {
+          "eggs": 1493,
+          "robux": 42910
+        }
+      ],
+      "sheckle": null
+    }
+  },
+  "Paradise Egg": {
+    "description": "The Paradise Egg was added in the Summer Harvest Event update, and can be purchased for 50,000,000 or 139. It takes 6 Hours 40 minutes to hatch. It has a 7% chance of appearing in the Pet Eggs shop.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/b/ba/ParadiseSummerEgg.png/revision/latest?cb=20250620110037",
+    "hatchTime": "6h 40min",
+    "obtainable": true,
+    "releaseDate": "June 21, 2025",
+    "pets": {
+      "Ostrich": 40,
+      "Peacock": 30,
+      "Capybara": 21,
+      "Scarlet Macaw": 8,
+      "Mimic Octopus": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 139,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 50000000
+    }
+  },
+  "Pet Eggs": {
+    "description": "The Pet Eggs shop is one of the main shops in Grow a Garden. The shop is mainly used to sell Pet Egg and help increase pet slots. Raphael used to be the quest giver but that task was changed to the Gear Shop after the Pet Update. The Pet Shop is one of the stands/shops in Grow a Garden. It holds the Pet Eggs. Every 30 minutes the 3 eggs rotate. At the beginning of the Pet Update the Panda appeared next to it for the first hour of the update for players to obtain. The stand has a yellow and white striped spawning over it...",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/e3/Pet_Egg_stand.png/revision/latest?cb=20250503152857",
+    "hatchTime": "Tidak diketahui",
+    "obtainable": false,
+    "releaseDate": "Tidak ada",
+    "pets": [],
+    "priceParsed": {
+      "robuxOptions": [],
+      "sheckle": null
+    }
+  },
+  "Premium Anti Bee Egg": {
+    "description": "Not to be confused with the Anti Bee Egg. The Premium Anti Bee Egg is an egg obtained from the Limited Time Shop during the Bizzy Bee Event. It gives the player an opportunity to receive one of five different pets. This egg resembles the Anti Bee Egg, having identical rewards with the same chances. The Premium Anti Bee Egg is obtained from the Limited Time Shop during the Bizzy Bee Event. which costs robux varying upon the amount of eggs bought, There is no other way to get the Premium Anti Bee Egg, however the player...",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/e/e2/AntiBeeEgg.png/revision/latest?cb=20250607151716",
+    "hatchTime": "30 seconds",
+    "obtainable": false,
+    "releaseDate": "June 7, 2025",
+    "pets": {
+      "Wasp": 55,
+      "Tarantula Hawk": 30,
+      "Moth": 13.75,
+      "Butterfly": 1,
+      "Disco Bee": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 149,
+          "eggs": 1
+        },
+        {
+          "robux": 429,
+          "eggs": 3
+        },
+        {
+          "robux": 1269,
+          "eggs": 10
+        }
+      ],
+      "sheckle": null
+    }
+  },
+  "Premium Night Egg": {
+    "description": "The Premium Night Egg is an egg that gives a player an opportunity to receive one of six different pets. This egg resembles the Night Egg, having identical rewards but with a higher chance to gain one of pet types. The Premium Night Egg is available exclusively with Robux. It is not obtainable through regular gameplay or farming methods.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/7/71/Night_Egg.png/revision/latest?cb=20250524082844",
+    "hatchTime": "30 seconds",
+    "obtainable": false,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Hedgehog": 47,
+      "Mole": 23.5,
+      "Frog": 17.63,
+      "Echo Frog": 8.23,
+      "Night Owl": 3.53,
+      "Raccoon": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 199,
+          "eggs": 1
+        },
+        {
+          "robux": 575,
+          "eggs": 3
+        },
+        {
+          "robux": 1699,
+          "eggs": 10
+        }
+      ],
+      "sheckle": null
+    }
+  },
+  "Premium Oasis Egg": {
+    "description": "The Oasis Egg is a limited Mythical egg. It was added in the second half of the Summer Harvest Event. It can be purchased in the Limited Time Shop for different rates of Robux.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/9/90/OasisEgg.webp/revision/latest?cb=20250626165225",
+    "hatchTime": "30 Seconds",
+    "obtainable": true,
+    "releaseDate": "June 28, 2025",
+    "pets": {
+      "Meerkat": 45,
+      "Sand Snake": 34.5,
+      "Axolotl": 15,
+      "Hyacinth Macaw": 5,
+      "Fennec Fox": 1
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "eggs": 1,
+          "robux": 1493
+        },
+        {
+          "eggs": 42910,
+          "robux": 1269
+        }
+      ],
+      "sheckle": null
+    }
+  },
+  "Rare Egg": {
+    "description": "The Rare Egg is a type of egg that can be purchased from the Pet Eggs shop for 600,000 or 89. It has a 24% chance of appearing in the Pet Shop and requires 2 hours to hatch. This egg is currently not available via the Pet Eggs shop and is replaced by Summer Season Eggs.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/1/1f/Rare_Egg.webp/revision/latest?cb=20250527051115",
+    "hatchTime": "2 hours",
+    "obtainable": true,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Orange Tabby": 33.33,
+      "Spotted Deer": 16.67,
+      "Pig": 25,
+      "Rooster": 10,
+      "Monkey": 4
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 89,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 600000
+    }
+  },
+  "Rare Summer Egg": {
+    "description": "The Rare Summer Egg was added in the Summer Harvest Event update and can be purchased for 25.000.000 or 99. It takes 4 hours to hatch. It has a 17% chance to enter the Pet Eggs shop.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/6/6c/RareSummerEgg.png/revision/latest?cb=20250620110038",
+    "hatchTime": "4 hours",
+    "obtainable": true,
+    "releaseDate": "June 21, 2025",
+    "pets": {
+      "Flamingo": 30,
+      "Toucan": 25,
+      "Sea Turtle": 20,
+      "Orangutan": 15,
+      "Seal": 10
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 99,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 25000000
+    }
+  },
+  "Uncommon Egg": {
+    "description": "The Uncommon Egg is a type of egg that can be purchased from the Pet Eggs shop for 150,000 or 39. It has a 54% chance of appearing in the Pet Shop and requires 20 minutes to hatch. This egg is currently not available and is replaced by Summer Season Eggs.",
+    "image": "https://static.wikia.nocookie.net/growagarden/images/0/0c/Uncommon_Egg.webp/revision/latest?cb=20250527051327",
+    "hatchTime": "20 minutes",
+    "obtainable": false,
+    "releaseDate": "Tidak ada",
+    "pets": {
+      "Black Bunny": 25,
+      "Chicken": 25,
+      "Cat": 25,
+      "Deer": 25
+    },
+    "priceParsed": {
+      "robuxOptions": [
+        {
+          "robux": 39,
+          "eggs": 1
+        }
+      ],
+      "sheckle": 150000
+    }
+  }
+}
