@@ -9,7 +9,7 @@ const EGG_FILE = path.join(__dirname, '../eggs.json');
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('test')
+        .setName('egginfo')
         .setDescription('Lihat informasi tentang egg dari Grow a Garden Wiki')
         .addStringOption(option =>
             option.setName('name')
