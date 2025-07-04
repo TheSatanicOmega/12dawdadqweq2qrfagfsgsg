@@ -70,7 +70,7 @@ const rest = new REST({
 client.once('ready', () => {
     console.log(`🤖 Logged in as ${client.user.tag}`);
     startPetUpdater();
-    startEggUpdater();
+    //startEggUpdater(); //Disabled for a while
     //startPetScrapper();
     require('./handlers/eventNotifier.js')(client);
     console.log("✅ Event Notifier loaded.")
