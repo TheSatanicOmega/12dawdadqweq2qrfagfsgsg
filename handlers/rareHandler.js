@@ -5,7 +5,7 @@ const {
 module.exports = (client) => {
     const SOURCE_CHANNEL_ID = '1378284226121695302';
     const TARGET_CHANNEL_ID = '1389920277923889352';
-    const WHITELIST_KEYWORDS = ['Oasis Egg', 'Paradise Egg', 'Bee Egg'];
+    const WHITELIST_KEYWORDS = ['Oasis Egg', 'Paradise Egg', 'Bee Egg', 'Bug Egg'];
 
     client.on('messageCreate', async (message) => {
         if (message.channel.id !== SOURCE_CHANNEL_ID) return;
