@@ -70,13 +70,13 @@ const rest = new REST({
 client.once('ready', () => {
     console.log(`🤖 Logged in as ${client.user.tag}`);
     startPetUpdater();
-    //startEggUpdater(); //Disabled for a while
-    //startPetScrapper();
+    //startEggUpdater(); //You can enable this
+    //startPetScrapper(); //You can enable this
     require('./handlers/eventNotifier.js')(client);
     console.log("✅ Event Notifier loaded.")
     require('./handlers/rareHandler.js')(client);
     console.log("✅ Rare Notifier loaded.")
-    //startCropUpdater();
+    //startCropUpdater(); //You can enable this
 });
 
 client.on('interactionCreate', async interaction => {
